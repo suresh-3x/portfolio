@@ -1,5 +1,5 @@
 ### Live Link
-[click here](https://suresh-3x.github.io/portfolio/).
+[click here](https://suresh-3x.github.io/portfolio/)
 
 ### Description
 

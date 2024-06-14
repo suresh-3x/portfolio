@@ -1,4 +1,5 @@
 import img from './assets/images/bg.jpeg';
+import bizAssistImg from './assets/images/bizasssit.png';
 
 const logotext = "SB";
 
@@ -89,9 +90,10 @@ const skills = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: ".",
-        link: "#",
+    
+        img: bizAssistImg,
+        description: "Agency Website",
+        link: "http://bizassist.online",
     },
    ];
 

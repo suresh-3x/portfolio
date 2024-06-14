@@ -38,14 +38,14 @@ export const Home = () => {
                 </h1>
                 <p className="mb-1x">{introdata.description}</p>
                 <div className="intro_btn-action pb-5">
-                  {/* <Link to="/portfolio" className="text_2">
+                  <Link to="/portfolio" className="text_2">
                     <div id="button_h" className="ac_btn btn ">
                       Projects
                       <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>
                     </div>
-                  </Link> */}
+                  </Link>
                   <Link to="/about">
                     <div id="button_h" className="ac_btn btn">
                       About Me

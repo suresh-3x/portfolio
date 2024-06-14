@@ -1,5 +1,7 @@
 import img from './assets/images/bg.jpeg';
 import bizAssistImg from './assets/images/bizasssit.png';
+import News3xImg from './assets/images/News3x.png';
+import visionCloImg from './assets/images/visionClo.png';
 
 const logotext = "SB";
 
@@ -90,11 +92,18 @@ const skills = [{
 ];
 
 const dataportfolio = [{
-    
         img: bizAssistImg,
         description: "Agency Website",
         link: "http://bizassist.online",
-    },
+    },{
+        img: visionCloImg,
+        description: "Vision Clothing App",
+        link: "https://github.com/suresh-3x/vision-clo"
+    },{
+        img: News3xImg,
+        description: "News 3x App",
+        link: "https://github.com/suresh-3x/News3x"
+    }
    ];
 
 const contactConfig = {

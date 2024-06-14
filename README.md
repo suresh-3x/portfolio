@@ -10,7 +10,7 @@ A simple portfolio template for Computer Science and Cybersecurity professionals
 
 **Install the git repo**
 
-<pre>git clone https://github.com/Duerme/cybersecurity-portfolio-webpage.git</pre>
+<pre>git clone https://github.com/suresh-3x/portfolio</pre>
 
 **Install yarn**
 

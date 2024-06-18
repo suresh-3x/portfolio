@@ -1,7 +1,6 @@
 {
     "name": "suresh-3x-portfolio",
     "version": "0.1.0",
-    "homepage": "https://suresh-3x.github.io/portfolio",
     "private": true,
     "dependencies": {
         "bootstrap": "^5.2.3",
